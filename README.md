@@ -30,7 +30,7 @@
 ### 🔧 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ghosturls.git
+git clone https://github.com/th3gowtham/GhostURLs.git
 cd ghosturls
 chmod +x GhostURLs.sh
 sudo mv GhostURLs.sh /usr/local/bin/ghosturls
