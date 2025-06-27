@@ -32,3 +32,9 @@
 ```bash
 git clone https://github.com/your-username/ghosturls.git
 cd ghosturls
+chmod +x GhostURLs.sh
+sudo mv GhostURLs.sh /usr/local/bin/ghosturls
+ghosturls
+
+```
+<p align="center"> 🕸️ <b>GhostURLs</b> – Fetch what was hidden. </p> ```
